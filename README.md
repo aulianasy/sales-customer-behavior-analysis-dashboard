@@ -1,6 +1,6 @@
 **E-Commerce Sales & Customer Behavior Analysis**
 
-Proyek analisis data e-commerce yang bertujuan untuk mengevaluasi tren transaksi, mengidentifikasi produk terlaris, serta memahami karakteristik pelanggan berdasarkan segmen dan frekuensi pembelian. Data diolah dan divisualisasikan menggunakan Python dan Power BI menjadi dashboard interaktif untuk mendukung pemantauan kinerja penjualan, evaluasi perilaku pelanggan, dan penyusunan strategi bisnis berbasis data.
+Proyek analisis data e-commerce yang bertujuan untuk mengevaluasi tren transaksi, mengidentifikasi produk terlaris, serta memahami karakteristik pelanggan berdasarkan segmen dan frekuensi pembelian. Data diolah dan divisualisasikan menggunakan Python dan Power BI menjadi dashboard untuk mendukung pemantauan kinerja penjualan, evaluasi perilaku pelanggan, dan penyusunan strategi bisnis berbasis data.
 
 **Tantangan**
 
